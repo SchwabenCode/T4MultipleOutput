@@ -11,3 +11,4 @@ You can install this tt helper with NuGet by using
 ```
 Install-Package T4MultipleOutput
 ```
+or visit [T4MultipleOutput on NuGet](https://www.nuget.org/packages/T4MultipleOutput/)
