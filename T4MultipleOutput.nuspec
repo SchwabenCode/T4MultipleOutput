@@ -20,4 +20,7 @@
            // https://raw.github.com/damieng/DamienGKit
            // http://damieng.com/blog/2009/11/06/multiple-outputs-from-t4-made-easy-revisited</summary>
     </metadata>
+    <files>
+        <file src="MultipleOutput.ttinclude" target="Content\" />
+    </files>
 </package>
