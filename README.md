@@ -6,3 +6,8 @@ because git does not provide partial forks.
 
 For license questions please check the origin
   https://github.com/damieng/DamienGKit/blob/master/LICENCE.txt
+
+You can install this tt helper with NuGet by using
+```
+Install-Package T4MultipleOutput
+```
