@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+    <metadata>
+        <id>T4MultipleOutput</id>
+        <version>1.0.1</version>
+        <title>T4MultipleOutput</title>
+        <authors>Benjamin Abt (SchwabenCode.com)</authors>
+        <owners>Benjamin Abt (SchwabenCode.com)</owners>
+        <licenseUrl>https://github.com/damieng/DamienGKit/blob/master/LICENCE.txt</licenseUrl>
+        <projectUrl>https://github.com/damieng/DamienGKit/tree/master/T4/MultipleOutputHelper</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>
+          This is just a package of the contents of
+           // https://raw.github.com/damieng/DamienGKit
+           // http://damieng.com/blog/2009/11/06/multiple-outputs-from-t4-made-easy-revisited
+
+          I did not make any changes. Just packaged it into NuGet to deploy that script easiert!</description>
+        <summary>
+          This is just a package of the contents of 
+           // https://raw.github.com/damieng/DamienGKit
+           // http://damieng.com/blog/2009/11/06/multiple-outputs-from-t4-made-easy-revisited</summary>
+    </metadata>
+</package>
