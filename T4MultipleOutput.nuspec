@@ -11,14 +11,14 @@
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>
           This is just a package of the contents of
-           // https://raw.github.com/damieng/DamienGKit
-           // http://damieng.com/blog/2009/11/06/multiple-outputs-from-t4-made-easy-revisited
+           https://raw.github.com/damieng/DamienGKit
+           http://damieng.com/blog/2009/11/06/multiple-outputs-from-t4-made-easy-revisited
 
           I did not make any changes. Just packaged it into NuGet to deploy that script easiert!</description>
         <summary>
           This is just a package of the contents of 
-           // https://raw.github.com/damieng/DamienGKit
-           // http://damieng.com/blog/2009/11/06/multiple-outputs-from-t4-made-easy-revisited</summary>
+           https://raw.github.com/damieng/DamienGKit
+           http://damieng.com/blog/2009/11/06/multiple-outputs-from-t4-made-easy-revisited</summary>
     </metadata>
     <files>
         <file src="MultipleOutput.ttinclude" target="Content\.t4" />
